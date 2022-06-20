@@ -582,7 +582,7 @@ h6 {
 }
 .navbar-default .navbar-collapse,
 .navbar-default .navbar-form {
-  border-color: #1eb0ca;
+  border-color: #ffffff;
 }
 .navbar-default {
   background-color: transparent;
@@ -600,11 +600,11 @@ h6 {
   color: #fff;
 }
 .navbar-default .navbar-nav > li {
-  border-right: 1px solid #1eb0ca;
+  border-right: 1px solid #ffffff;
   padding: 10px;
 }
 .navbar-default .navbar-nav > li:first-child {
-  border-left: 1px solid #1eb0ca;
+  border-left: 1px solid #ffffff;
 }
 .navbar-default .navbar-brand {
   text-transform: uppercase;
@@ -618,7 +618,7 @@ h6 {
   color: #fff;
 }
 .site-header {
-  background-color: #39c8e2;
+  background-color: #2F4F4F;
   color: #ffffff;
 }
 .site-slider {
