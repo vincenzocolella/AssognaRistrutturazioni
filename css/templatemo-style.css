@@ -770,7 +770,7 @@ h6 {
   color: #39c8e2;
 }
 .page-h {
-  background: url(../images/headerbg.png) no-repeat bottom center;
+  background: url(../images/p4.jpg) no-repeat bottom center;
   background-size: cover;
   padding: 60px 0;
 }
@@ -1093,6 +1093,7 @@ body {
 /* Carousel base class */
 .carousel {
   margin-bottom: 100px;
+  margin-top: 40px;
 }
 /* Since positioning the image, we need to help out the caption */
 .carousel-caption {
@@ -1101,15 +1102,18 @@ body {
 
 /* Declare heights because of positioning of img element */
 .carousel .item {
-  height: 1000px;
+  height: 500px;
 
   background-color:#555;
 }
 .carousel img {
   position: absolute;
-  top: 0;
-  left: 0;
+  top: 20px;
+  left: 350px;
   min-height: 600px;
+    
+    top: 50%;
+    transform: translateY(-70%);
 }
 
 
