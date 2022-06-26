@@ -906,6 +906,10 @@ button.main-button,
   margin: 15px 0 5px 0;
   
 }
+.contact .col-md-13{
+  font-size: 18px;
+  color: #000;
+}
 .contact fieldset {
   margin-bottom: 30px;
 }
